@@ -1,0 +1,24 @@
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Rock Paper ScissorsTests.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Rock Paper ScissorsTests.pdb
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Rock Paper Scissors.exe
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Rock Paper Scissors.pdb
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Rock Paper Scissors.exe.config
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\obj\Debug\Rock Paper ScissorsTests.csproj.AssemblyReference.cache
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\obj\Debug\Rock Paper ScissorsTests.csproj.CoreCompileInputs.cache
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\obj\Debug\Rock Paper ScissorsTests.csproj.CopyComplete
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\obj\Debug\Rock Paper ScissorsTests.dll
+C:\Appli\pierre_feuille_ciseau_test_unit\Rock Paper ScissorsTests\obj\Debug\Rock Paper ScissorsTests.pdb
